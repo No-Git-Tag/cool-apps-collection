@@ -1,2 +1,2 @@
-# cool-apps-collection
-this is a selection of apps on android/windows that i personally use. 
+# cool-apps-and-websites-collection
+A collection of apps/websites that i often use
