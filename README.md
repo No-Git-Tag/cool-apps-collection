@@ -5,7 +5,8 @@ You can request for me to add an app with the Issues tab and i might add it to t
 
 # ANDROID APPS
 
-[Fairemail](https://email.faircode.eu/) - an email client that is focused on privacy (and is more battery efficent from what i have experienced)  
+[Fairemail](https://email.faircode.eu/) - an open source email client that is focused on privacy (and is more battery efficent from what i have experienced)  
+[Accubattery](https://accubatteryapp.com/) - an app that can help you track your phone's battery life   
 
 
 # WINDOWS APPS
