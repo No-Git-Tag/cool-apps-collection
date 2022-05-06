@@ -8,7 +8,7 @@ You can request for me to add an app with the Issues tab and i might add it to t
 [Fairemail](https://email.faircode.eu/) - an open source email client that is focused on privacy (and is more battery efficent from what i have experienced)  
 [Accubattery](https://accubatteryapp.com/) - an app that can help you track your phone's battery life   
 [InviZible Pro](https://invizible.net/en/) - an open source app that that can connect you to the tor network, DNSCrypt, and Purple I2P ([f-droid](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable/) variant reccomended)
-[xManager](https://xmanagerapp.com/) - the better free spotify for the ones who want to save their 10 dollars for some candy. 
+[xManager](https://xmanagerapp.com/) - the better free spotify for the ones who want to save their 10 dollars for some candy.       
 [Vanced Youtube](https://vancedapp.com/) - the better youtube, while it is no longer avaible, the apks for the Client and MicroG have been archived.
 
 
