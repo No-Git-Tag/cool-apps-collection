@@ -8,6 +8,8 @@ You can request for me to add an app with the Issues tab and i might add it to t
 [Fairemail](https://email.faircode.eu/) - an open source email client that is focused on privacy (and is more battery efficent from what i have experienced)  
 [Accubattery](https://accubatteryapp.com/) - an app that can help you track your phone's battery life   
 [InviZible Pro](https://invizible.net/en/) - an open source app that that can connect you to the tor network, DNSCrypt, and Purple I2P ([f-droid](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable/) variant reccomended)
+[xManager](https://xmanagerapp.com/) - the better free spotify for the ones who want to save their 10 dollars for some candy.  
+
 
 
 # WINDOWS APPS
@@ -22,6 +24,8 @@ You can request for me to add an app with the Issues tab and i might add it to t
 [Libreoffice](https://www.libreoffice.org/) - a free and open source app that is avaible for windows, linux (only deb and rpm file formats), android, and MacOS   
 [VLC](https://www.videolan.org/) - best video/audio player ever that is avaible on MANY linux distros, windows, android, IOS, MacOS, and lots more  
 [Krita](https://krita.org/) - an open source painting program that is avaible on Windows, MacOS, and linux (Appimage file only)   
-[Qbittorrent](https://www.qbittorrent.org/download.php) - an open source bittorrent client that is avaible on Windows, MacOS, and on MANY linux distros    
+[Qbittorrent](https://www.qbittorrent.org/download.php) - an open source bittorrent client that is avaible on Windows, MacOS, and on MANY linux distros   
+[7-Zip](https://www.7-zip.org/) - the better Winrar, avaible for windows 10/7, linux, and an unofficial port for other linux distros as well.   
+
 
 
