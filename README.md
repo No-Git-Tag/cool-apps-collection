@@ -1,6 +1,6 @@
 # cool-apps-collection
-A collection of apps that i use on windows/android (and if there is a linux variant avaible, it'll be under the multi platform category)
-You can request for me to add an app with the Issues tab and i might add it to this list, and please inform me if there are other apps that are open source or do a better job then what the other app tries to acomplish.
+A collection of apps that i use on windows/android (and if there is a linux variant avaible, it'll be under the multi platform category)    
+You can also request for me to add an app with the Issues tab and i might add it to this list, and please inform me if there are other apps that are open source or do a better job then what the other app tries to acomplish.
 
 
 # ANDROID APPS
