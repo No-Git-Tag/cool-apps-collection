@@ -19,6 +19,7 @@ You can also request for me to add an app with the Issues tab and i might add it
 [open shell](https://github.com/Open-Shell/Open-Shell-Menu) - an open source continutation of [classic shell](http://classicshell.net/) that changes the start menu appearence 
 [OP auto clicker](https://www.opautoclicker.com/) - its just an auto clicker  
 [winaero tweaker](https://winaero.com/winaero-tweaker/) - an app that can customize windows 10 in many ways.  
+[SpeedFan](https://www.almico.com/speedfan.php) - an app that can do plenty of things related to maintaining the physical hardware
 
 
 # MULTI-PLATFORM APPS
