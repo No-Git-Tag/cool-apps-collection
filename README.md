@@ -17,7 +17,7 @@ You can also request for me to add an app with the Issues tab and i might add it
 # WINDOWS APPS
 [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - an open source uninstaller.   
 [waterfox](https://www.waterfox.net/) - an open source fork of firefox that just removes some of the garbage that firefox has.  
-[open shell](https://github.com/Open-Shell/Open-Shell-Menu) - an open source continutation of [classic shell](http://classicshell.net/) that changes the start menu appearence 
+[open shell](https://github.com/Open-Shell/Open-Shell-Menu) - an open source continutation of [classic shell](http://classicshell.net/) that changes the start menu appearence     
 [OP auto clicker](https://www.opautoclicker.com/) - its just an auto clicker  
 [winaero tweaker](https://winaero.com/winaero-tweaker/) - an app that can customize windows 10 in many ways.  
 [SpeedFan](https://www.almico.com/speedfan.php) - an app that can do plenty of things related to maintaining the physical hardware
