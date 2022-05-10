@@ -1,7 +1,9 @@
 # cool-apps-collection
 A collection of apps that i use on windows/android (and if there is a linux variant avaible, it'll be under the multi platform category)    
-You can also request for me to add an app with the Issues tab and i might add it to this list, and please inform me if there are other apps that are open source or do a better job then what the other app tries to acomplish.
 
+You can also request for me to add an app with the Issues tab and i might add it to this list, and please inform me if there are other apps that are open source or do a better job then what the other app tries to acomplish.   
+
+**WARNING: Some android apps you MAY need to add some external repositories on F-droid to get the apk and install the app**
 
 # ANDROID APPS
 
@@ -10,6 +12,8 @@ You can also request for me to add an app with the Issues tab and i might add it
 [InviZible Pro](https://invizible.net/en/) - an open source app that that can connect you to the tor network, DNSCrypt, and Purple I2P ([f-droid](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable/) variant reccomended)
 [xManager](https://xmanagerapp.com/) - the better free spotify for the ones who want to save their 10 dollars for some candy.       
 [Youtube Vanced](https://vancedapp.com/) - the better youtube, while it is no longer avaible, the apks for the Client and MicroG have been archived.    
+[Newpipe](https://newpipe.net/) - another superior youtube, with the caveat that it has no algorithm, so you need to know what you Want!    
+[Newpipe x SponsorBlock](https://apt.izzysoft.de/fdroid/index/apk/org.polymorphicshade.newpipe) - it is Newpipe, but with [SponsorBlock](https://sponsor.ajay.app/) in it
 
 
 
