@@ -9,7 +9,8 @@ You can also request for me to add an app with the Issues tab and i might add it
 [Accubattery](https://accubatteryapp.com/) - an app that can help you track your phone's battery life   
 [InviZible Pro](https://invizible.net/en/) - an open source app that that can connect you to the tor network, DNSCrypt, and Purple I2P ([f-droid](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable/) variant reccomended)
 [xManager](https://xmanagerapp.com/) - the better free spotify for the ones who want to save their 10 dollars for some candy.       
-[Youtube Vanced](https://vancedapp.com/) - the better youtube, while it is no longer avaible, the apks for the Client and MicroG have been archived.
+[Youtube Vanced](https://vancedapp.com/) - the better youtube, while it is no longer avaible, the apks for the Client and MicroG have been archived.    
+
 
 
 
@@ -23,12 +24,13 @@ You can also request for me to add an app with the Issues tab and i might add it
 
 
 # MULTI-PLATFORM APPS
-[Libreoffice](https://www.libreoffice.org/) - a free and open source app that is avaible for windows, linux (only debian and rpm file formats), android, and MacOS   
-[VLC](https://www.videolan.org/) - best video/audio player ever that is avaible on MANY linux distros, windows, android, IOS, MacOS, and lots more  
-[Krita](https://krita.org/) - an open source painting program that is avaible on Windows, MacOS, and linux (Appimage file only)   
+[Libreoffice](https://www.libreoffice.org/) - a free and open source app that is avaible for windows, linux (only debian and rpm file formats), android, and MacOS    
+[VLC](https://www.videolan.org/) - best video/audio player ever that is avaible on MANY linux distros, android, IOS, MacOS, and lots more   
+[Krita](https://krita.org/) - an open source painting program that is avaible on Windows,Android (only tablets for now) MacOS, and linux (Appimage file only)     
 [Qbittorrent](https://www.qbittorrent.org/download.php) - an open source bittorrent client that is avaible on Windows, MacOS, and on MANY linux distros   
 [7-Zip](https://www.7-zip.org/) - the better Winrar, avaible for windows 10/7, linux, and an unofficial port for other linux distros as well.   
-[Signal](https://signal.org/download/#) - a messenger focused on security, avaible for windows, android, IOS, MacOS, and Debian based linux distros 
+[Signal](https://signal.org/download/#) - a messenger focused on security, avaible for windows, android, IOS, MacOS, and Debian based linux distros     
+[Firefox](https://www.mozilla.org/en-US/) - an open source web browser for multiple platforms, and as it uses a different engine (gecko rendering engine)   
 
 
 
