@@ -21,7 +21,9 @@ You can also request for me to add an app with the Issues tab and i might add it
 
 [Newpipe x SponsorBlock](https://apt.izzysoft.de/fdroid/index/apk/org.polymorphicshade.newpipe) - it is Newpipe, but with [SponsorBlock](https://sponsor.ajay.app/) in it 
 
-[F-droid](https://f-droid.org/) - another app store for Free and Open source apps, and you can add other repositories, such as the [IzzyOnDroid](https://android.izzysoft.de/repo) repository.
+[F-droid](https://f-droid.org/) - another app store for Free and Open source apps, and you can add other repositories, such as the [IzzyOnDroid](https://android.izzysoft.de/repo) repository.        
+
+[Aurora Store](https://f-droid.org/en/packages/com.aurora.store/) - a google play store client (and f-droid client) that can let you download apps without needing to use your google account, And can also provide information on the trackers that the app has.
 
 
 
