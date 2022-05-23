@@ -39,7 +39,9 @@ You can also request for me to add an app with the Issues tab and i might add it
 
 [winaero tweaker](https://winaero.com/winaero-tweaker/) - an app that can customize windows 10 in many ways.  
 
-[SpeedFan](https://www.almico.com/speedfan.php) - an app that can do plenty of things related to maintaining the physical hardware
+[SpeedFan](https://www.almico.com/speedfan.php) - an app that can do plenty of things related to maintaining the physical hardware    
+
+[Rufus](https://rufus.ie/en/#) - a great (open source) usb boot drive creator
 
 
 # MULTI-PLATFORM APPS
