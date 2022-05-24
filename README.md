@@ -23,7 +23,9 @@ You can also request for me to add an app with the Issues tab and i might add it
 
 [F-droid](https://f-droid.org/) - another app store for Free and Open source apps, and you can add other repositories, such as the [IzzyOnDroid](https://android.izzysoft.de/repo) repository.        
 
-[Aurora Store](https://f-droid.org/en/packages/com.aurora.store/) - a google play store client (and f-droid client) that can let you download apps without needing to use your google account, And can also provide information on the trackers that the app has.
+[Aurora Store](https://f-droid.org/en/packages/com.aurora.store/) - a google play store client (and f-droid client) that can let you download apps without needing to use your google account, And can also provide information on the trackers that the app has.   
+
+[Mull](https://www.f-droid.org/packages/us.spotco.fennec_dos/) - a fork of firefox mobile, which improves on privacy, think of it like [waterfox](https://www.waterfox.net/) but for androids.
 
 
 
