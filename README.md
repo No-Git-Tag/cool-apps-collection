@@ -25,7 +25,11 @@ You can also request for me to add an app with the Issues tab and i might add it
 
 [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/) - a google play store client (and f-droid client) that can let you download apps without needing to use your google account, And can also provide information on the trackers that the app has.   
 
-[Mull](https://www.f-droid.org/packages/us.spotco.fennec_dos/) - a fork of firefox mobile, which improves on privacy, think of it like [waterfox](https://www.waterfox.net/) but for androids.
+[Mull](https://www.f-droid.org/packages/us.spotco.fennec_dos/) - a fork of firefox mobile, which improves on privacy, think of it like [waterfox](https://www.waterfox.net/) but for androids.    
+
+[Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - an amazing FOSS manga reader with support from many manga websites, can download chapters of manga, tracker support, and lots more.
+
+[Aniyomi](https://github.com/jmir1/aniyomi) - a fork of [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) which adds anime to the mix
 
 
 
@@ -33,7 +37,7 @@ You can also request for me to add an app with the Issues tab and i might add it
 # WINDOWS APPS
 [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - an open source uninstaller.   
 
-[waterfox](https://www.waterfox.net/) - an open source fork of firefox that just removes some of the garbage that firefox has.  
+[waterfox](https://www.waterfox.net/) - an open source fork of firefox that removes some of the privacy issues that firefox has.  
 
 [open shell](https://github.com/Open-Shell/Open-Shell-Menu) - an open source continutation of [classic shell](http://classicshell.net/) that changes the start menu appearence         
 
@@ -59,7 +63,7 @@ You can also request for me to add an app with the Issues tab and i might add it
 
 [Signal](https://signal.org/download/#) - a messenger focused on security, avaible for windows, android, IOS, MacOS, and Debian based linux distros     
 
-[Firefox](https://www.mozilla.org/en-US/) - an open source web browser for multiple platforms, and as it uses a different engine (gecko rendering engine)   
+[Firefox](https://www.mozilla.org/en-US/) - an open source web browser for multiple platforms, and as it uses a different engine (gecko rendering engine), but you do need to do a few things before it is much more secure.
 
 
 
