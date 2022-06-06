@@ -3,7 +3,7 @@ A collection of apps that i use on windows/android (and if there is a linux vari
 
 You can also request for me to add an app with the Issues tab and i might add it to this list, and please inform me if there are other apps that are open source or do a better job then what the other app tries to acomplish.   
 
-**WARNING: Some android apps you MAY need to add some external repositories on F-droid to get the apk and install the app**
+**WARNING: Some android apps you MAY need to add some extra repositories on F-droid to get the apk and install the app**
 
 # ANDROID APPS
 
